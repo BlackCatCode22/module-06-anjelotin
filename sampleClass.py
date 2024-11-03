@@ -13,6 +13,7 @@ an = PartyAnimal()
 print("type is: ", type(an))
 print("dir is: ", dir(an))
 print("type of an.x is: ", type(an.x))
+print("Type", type(an.party))
 
 an.party()
 an.party()
